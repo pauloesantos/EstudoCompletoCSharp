@@ -1,0 +1,9 @@
+D:\Pessoais Paulo\Projetos\EstudoCompletoCSharp\01-Basico\OIMundo\OIMundo\bin\Debug\OIMundo.exe.config
+D:\Pessoais Paulo\Projetos\EstudoCompletoCSharp\01-Basico\OIMundo\OIMundo\bin\Debug\OIMundo.exe
+D:\Pessoais Paulo\Projetos\EstudoCompletoCSharp\01-Basico\OIMundo\OIMundo\bin\Debug\OIMundo.pdb
+D:\Pessoais Paulo\Projetos\EstudoCompletoCSharp\01-Basico\OIMundo\OIMundo\obj\Debug\OIMundo.csprojResolveAssemblyReference.cache
+D:\Pessoais Paulo\Projetos\EstudoCompletoCSharp\01-Basico\OIMundo\OIMundo\obj\Debug\OIMundo.Form1.resources
+D:\Pessoais Paulo\Projetos\EstudoCompletoCSharp\01-Basico\OIMundo\OIMundo\obj\Debug\OIMundo.Properties.Resources.resources
+D:\Pessoais Paulo\Projetos\EstudoCompletoCSharp\01-Basico\OIMundo\OIMundo\obj\Debug\OIMundo.csproj.GenerateResource.Cache
+D:\Pessoais Paulo\Projetos\EstudoCompletoCSharp\01-Basico\OIMundo\OIMundo\obj\Debug\OIMundo.exe
+D:\Pessoais Paulo\Projetos\EstudoCompletoCSharp\01-Basico\OIMundo\OIMundo\obj\Debug\OIMundo.pdb
